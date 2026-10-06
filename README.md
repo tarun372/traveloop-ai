@@ -87,3 +87,8 @@ uvicorn app:app --reload
 
 Open your browser at: http://127.0.0.1:8000
 
+# 🌍 Traveloop AI
+
+**Intelligent AI-powered travel planning agent**
+
+🔗 **Live Demo**: [https://traveloop-ai-2.onrender.com](https://traveloop-ai-2.onrender.com)
